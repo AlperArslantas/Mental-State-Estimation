@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Sanal ortamlar
+venv/
+venv310/
+.env/
+
+# Model ve ağırlık dosyaları
+models/*.h5
+models/*.hdf5
+
+# Jupyter notebook checkpointleri
+.ipynb_checkpoints
+
+# Matplotlib ve diğer geçici dosyalar
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.log
+
+# IDE dosyaları
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Kişisel ayarlar
+*.env 
