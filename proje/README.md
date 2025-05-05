@@ -57,13 +57,6 @@ Bu proje, gerçek zamanlı olarak yüz ifadeleri ve vücut dili üzerinden duygu
 
 Tüm gereksinimler `requirements.txt` dosyasında listelenmiştir.
 
-## Örnek Görseller
-- **Arayüz:**
-  ![GUI](docs/gui_example.png)
-- **Duygu Analizi Grafiği:**
-  ![Grafik](emotion_analysis_simple.png)
-- **Karışıklık Matrisi:**
-  ![Confusion Matrix](confusion_matrix.png)
 
 ## Notlar
 - Model dosyaları ve büyük veri setleri `.gitignore` ile hariç tutulmuştur.
